@@ -24,6 +24,9 @@ Layout/SpaceInsideHashLiteralBraces:
 Style/Documentation:
   Enabled: false
 
+Rails/InverseOf:
+  Enabled: false
+
 Metrics/BlockLength:
   Exclude:
     - 'spec/**/*.rb'
